@@ -1,849 +1,849 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour hassounds="0" apprev="20966" appversion="7.1.6" start="node33">
+<tour start="node33" hassounds="0" apprev="20966" appversion="7.1.6">
   <panorama id="node33">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="88.3958" fovmode="2">
-      <start tilt="-0.903543" fov="108.504" pan="2.09816" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="-0.903543" projection="4" fov="108.504" pan="2.09816"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:27" info="" longitude="-49.26077354" source="" latitude="-25.39238789" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node33" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="88.3958"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="2.74" description="" pan="-307.55" distance="22.687" url="{node2}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="129.0/0.0/108.2" id="Point01"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26077354" nodeid="node33" latitude="-25.39238789" tags="AcademiaForceOne" datetime="22/12/2024 15:27" heading="88.3958" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923879,-49.2607735,3a,75y,86.3h,90t/data=!3m4!1e1!3m2!1sAF1QipO73sD9iWPuFDctCKEIP5x7sIX1h5iaR7-a8hzf!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="2.74" url="{node2}" id="Point01" distance="22.687" target="129.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-307.55" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node2">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="171.424" fovmode="2">
-      <start tilt="0" fov="108.174" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="108.174" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:08" info="" longitude="-49.26071185" source="" latitude="-25.39219162" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node2" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="171.424"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-0.13" description="" pan="-0.28" distance="9.27004" url="{node3}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/108.2" id="Point01"/>
-      <hotspot tilt="0.18" description="" pan="-40.56" distance="22.687" url="{node33}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-163.6/0.0/100.0" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26071185" nodeid="node2" latitude="-25.39219162" tags="AcademiaForceOne" datetime="22/12/2024 14:08" heading="171.424" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3921916,-49.2607118,3a,75y,171.42h,90t/data=!3m4!1e1!3m2!1sAF1QipOkhfaOm4Brooc38M8ByM1qhOm8-m_j-0FYShPG!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-0.13" url="{node3}" id="Point01" distance="9.27004" target="0.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-0.28" description=""/>
+      <hotspot tilt="0.18" url="{node33}" id="Point02" distance="22.687" target="-163.6/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-40.56" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node3">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="170.545" fovmode="2">
-      <start tilt="0" fov="108.174" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="108.174" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:15" info="" longitude="-49.26069776" source="" latitude="-25.39227401" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node3" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="170.545"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="2.14" description="" pan="-295.29" distance="7.23492" url="{node4}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="2.44" description="" pan="-182.97" distance="9.27004" url="{node2}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="174.0/0.0/117.0" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26069776" nodeid="node3" latitude="-25.39227401" tags="AcademiaForceOne" datetime="22/12/2024 14:15" heading="170.545" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.392274,-49.2606978,3a,75y,170.54h,90t/data=!3m4!1e1!3m2!1sAF1QipMKaoY-NyWwJ5Ert65zKZsBQtP6RTaMhMCUE9SU!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="2.14" url="{node4}" id="Point01" distance="7.23492" target="0.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-295.29" description=""/>
+      <hotspot tilt="2.44" url="{node2}" id="Point02" distance="9.27004" target="174.0/0.0/117.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-182.97" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node4">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="81.6621" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:17" info="" longitude="-49.26063474" source="" latitude="-25.39230551" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node4" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="81.6621"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-1.67" description="" pan="-0.56" distance="13.0606" url="{node5}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point01"/>
-      <hotspot tilt="-3.54" description="" pan="-109.36" distance="4.12241" url="{node10}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-98.0/0.0/108.2" id="Point02"/>
-      <hotspot tilt="-0.63" description="" pan="-238.8" distance="7.23492" url="{node3}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-163.0/0.0/108.2" id="Point03"/>
-      <hotspot tilt="-0.75" description="" pan="-318.73" distance="8.14741" url="{node30}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="74.0/0.0/108.2" id="Point04"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26063474" nodeid="node4" latitude="-25.39230551" tags="AcademiaForceOne" datetime="22/12/2024 14:17" heading="81.6621" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923055,-49.2606347,3a,75y,81.66h,90t/data=!3m4!1e1!3m2!1sAF1QipNdD0ohcM8soajRccKGAoVLwpsrJ0LK67dkSZZ8!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.67" url="{node5}" id="Point01" distance="13.0606" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-0.56" description=""/>
+      <hotspot tilt="-3.54" url="{node10}" id="Point02" distance="4.12241" target="-98.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-109.36" description=""/>
+      <hotspot tilt="-0.63" url="{node3}" id="Point03" distance="7.23492" target="-163.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-238.8" description=""/>
+      <hotspot tilt="-0.75" url="{node30}" id="Point04" distance="8.14741" target="74.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-318.73" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node5">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="83.4691" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:22" info="" longitude="-49.26050599" source="" latitude="-25.39228915" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node5" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="83.4691"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-1.34" description="" pan="-358.77" distance="12.8994" url="{node6}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point01"/>
-      <hotspot tilt="0.22" description="" pan="-180.12" distance="13.0606" url="{node4}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="176.0/0.0/100.0" id="Point02"/>
-      <hotspot tilt="-1.77" description="" pan="-272.29" distance="6.38287" url="{node31}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="89.0/0.0/108.2" id="Point03"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26050599" nodeid="node5" latitude="-25.39228915" tags="AcademiaForceOne" datetime="22/12/2024 14:22" heading="83.4691" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3922891,-49.260506,3a,75y,83.47h,90t/data=!3m4!1e1!3m2!1sAF1QipNS-99kzv4OJCWxsCGkx9qWeU2hgSSV2tcp81eP!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.34" url="{node6}" id="Point01" distance="12.8994" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-358.77" description=""/>
+      <hotspot tilt="0.22" url="{node4}" id="Point02" distance="13.0606" target="176.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-180.12" description=""/>
+      <hotspot tilt="-1.77" url="{node31}" id="Point03" distance="6.38287" target="89.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-272.29" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node6">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="82.5085" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:27" info="" longitude="-49.26037859" source="" latitude="-25.39227461" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node6" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="82.5085"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-0.83" description="" pan="-77.47" distance="4.84028" url="{node12}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-86.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-1.19" description="" pan="-179.9" distance="12.8994" url="{node5}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-177.0/0.0/100.0" id="Point02"/>
-      <hotspot tilt="-1.28" description="" pan="-212.79" distance="7.14023" url="{node32}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="164.0/0.0/108.2" id="Point03"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26037859" nodeid="node6" latitude="-25.39227461" tags="AcademiaForceOne" datetime="22/12/2024 14:27" heading="82.5085" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3922746,-49.2603786,3a,75y,82.51h,90t/data=!3m4!1e1!3m2!1sAF1QipPyK9eD2cbcpSF8PvT9bI_PJ1rs19uI4m0SbkGa!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-0.83" url="{node12}" id="Point01" distance="4.84028" target="-86.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-77.47" description=""/>
+      <hotspot tilt="-1.19" url="{node5}" id="Point02" distance="12.8994" target="-177.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-179.9" description=""/>
+      <hotspot tilt="-1.28" url="{node32}" id="Point03" distance="7.14023" target="164.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-212.79" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node10">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="81.6356" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:40" info="" longitude="-49.26063139" source="" latitude="-25.39234246" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node10" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="81.6356"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-2.84" description="" pan="-1.42" distance="13.324" url="{node11}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point01"/>
-      <hotspot tilt="1" description="" pan="-290.28" distance="4.12241" url="{node4}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="87.6/1.4/100.0" id="Point02"/>
-      <hotspot tilt="-4.12" description="" pan="-89.44" distance="4.52148" url="{node9}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-86.0/0.0/100.0" id="Point03"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26063139" nodeid="node10" latitude="-25.39234246" tags="AcademiaForceOne" datetime="22/12/2024 14:40" heading="81.6356" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923425,-49.2606314,3a,75y,81.64h,90t/data=!3m4!1e1!3m2!1sAF1QipOOvH6m-YiRjLJh2o54bAj0CADCDAZmU6z41Tqr!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-2.84" url="{node11}" id="Point01" distance="13.324" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-1.42" description=""/>
+      <hotspot tilt="1" url="{node4}" id="Point02" distance="4.12241" target="87.6/1.4/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-290.28" description=""/>
+      <hotspot tilt="-4.12" url="{node9}" id="Point03" distance="4.52148" target="-86.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-89.44" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node11">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="85.3386" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:42" info="" longitude="-49.26049925" source="" latitude="-25.39233207" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node11" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="85.3386"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-2.78" description="" pan="-355.21" distance="13.5797" url="{node12}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point01"/>
-      <hotspot tilt="-1" description="" pan="-179.77" distance="13.324" url="{node10}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="178.0/0.0/100.0" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26049925" nodeid="node11" latitude="-25.39233207" tags="AcademiaForceOne" datetime="22/12/2024 14:42" heading="85.3386" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923321,-49.2604993,3a,75y,85.34h,90t/data=!3m4!1e1!3m2!1sAF1QipPbeRETPXMDT-1VibaFQTIUbidgboML1v_zS3z0!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-2.78" url="{node12}" id="Point01" distance="13.5797" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-355.21" description=""/>
+      <hotspot tilt="-1" url="{node10}" id="Point02" distance="13.324" target="178.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-179.77" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node12">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="83.2051" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:45" info="" longitude="-49.26036518" source="" latitude="-25.39231642" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node12" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="83.2051"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-1.97" description="" pan="-177.28" distance="13.5797" url="{node11}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="179.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-0.5" description="" pan="-260.71" distance="4.84028" url="{node6}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="85.0/0.0/100.0" id="Point02"/>
-      <hotspot tilt="-2.3" description="" pan="-57.07" distance="5.33545" url="{node7}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-37.0/0.0/108.2" id="Point03"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26036518" nodeid="node12" latitude="-25.39231642" tags="AcademiaForceOne" datetime="22/12/2024 14:45" heading="83.2051" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923164,-49.2603652,3a,75y,83.21h,90t/data=!3m4!1e1!3m2!1sAF1QipPzptBpj6aZqk95-a6_Ao0ea20NHFH5mcY_tPhj!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.97" url="{node11}" id="Point01" distance="13.5797" target="179.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-177.28" description=""/>
+      <hotspot tilt="-0.5" url="{node6}" id="Point02" distance="4.84028" target="85.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-260.71" description=""/>
+      <hotspot tilt="-2.3" url="{node7}" id="Point03" distance="5.33545" target="-37.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-57.07" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node7">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="88.9126" fovmode="2">
-      <start tilt="0" fov="100" pan="4.72399" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="4.72399"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:32" info="" longitude="-49.26032830" source="" latitude="-25.39235095" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node7" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="88.9126"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-4.73" description="" pan="-175.82" distance="16.5671" url="{node8}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="180.0/0.0/108.2" id="Point01"/>
-      <hotspot tilt="-0.22" description="" pan="-81.57" distance="4.15101" url="{node13}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-93.0/0.0/100.0" id="Point02"/>
-      <hotspot tilt="-3.16" description="" pan="-261.63" distance="5.33545" url="{node12}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="105.0/0.0/100.0" id="Point03"/>
-      <hotspot tilt="-1.24" description="" pan="-358.76" distance="6.9687" url="{node21}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point04"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26032830" nodeid="node7" latitude="-25.39235095" tags="AcademiaForceOne" datetime="22/12/2024 14:32" heading="88.9126" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.392351,-49.2603283,3a,75y,84.19h,90t/data=!3m4!1e1!3m2!1sAF1QipNvsm0JNnhF1VOs46L8BfL0zrx_j0Vm21rBa2mZ!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-4.73" url="{node8}" id="Point01" distance="16.5671" target="180.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-175.82" description=""/>
+      <hotspot tilt="-0.22" url="{node13}" id="Point02" distance="4.15101" target="-93.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-81.57" description=""/>
+      <hotspot tilt="-3.16" url="{node12}" id="Point03" distance="5.33545" target="105.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-261.63" description=""/>
+      <hotspot tilt="-1.24" url="{node21}" id="Point04" distance="6.9687" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-358.76" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node8">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="88.2892" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:35" info="" longitude="-49.26049191" source="" latitude="-25.39236972" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node8" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="88.2892"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-2.97" description="" pan="-179.48" distance="13.8206" url="{node9}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-178.0/0.0/108.2" id="Point01"/>
-      <hotspot tilt="-1.56" description="" pan="-359.78" distance="16.5671" url="{node7}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26049191" nodeid="node8" latitude="-25.39236972" tags="AcademiaForceOne" datetime="22/12/2024 14:35" heading="88.2892" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923697,-49.2604919,3a,75y,88.29h,90t/data=!3m4!1e1!3m2!1sAF1QipO1PtLX2OUFrv0DHx8llIt5VBvRbuMUZ-GoIlcf!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-2.97" url="{node9}" id="Point01" distance="13.8206" target="-178.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-179.48" description=""/>
+      <hotspot tilt="-1.56" url="{node7}" id="Point02" distance="16.5671" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-359.78" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node9">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="85.733" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:38" info="" longitude="-49.26062870" source="" latitude="-25.39238305" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node9" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="85.733"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-3.72" description="" pan="-359.58" distance="13.8206" url="{node8}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point01"/>
-      <hotspot tilt="-1.43" description="" pan="-271.26" distance="4.52148" url="{node10}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="87.0/0.0/100.0" id="Point02"/>
-      <hotspot tilt="1.34" description="" pan="-86.56" distance="3.52357" url="{node16}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-89.0/0.0/100.0" id="Point03"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26062870" nodeid="node9" latitude="-25.39238305" tags="AcademiaForceOne" datetime="22/12/2024 14:38" heading="85.733" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.392383,-49.2606287,3a,75y,85.73h,90t/data=!3m4!1e1!3m2!1sAF1QipOHnN7Nh10dobnmADZb3w4XuFwwpfFcP3d5eUA9!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-3.72" url="{node8}" id="Point01" distance="13.8206" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-359.58" description=""/>
+      <hotspot tilt="-1.43" url="{node10}" id="Point02" distance="4.52148" target="87.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-271.26" description=""/>
+      <hotspot tilt="1.34" url="{node16}" id="Point03" distance="3.52357" target="-89.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-86.56" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node13">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="84.6714" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:47" info="" longitude="-49.26032226" source="" latitude="-25.39238788" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node13" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="84.6714"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-3.65" description="" pan="-280.79" distance="4.15101" url="{node7}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="91.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-3.57" description="" pan="-180.33" distance="8.46149" url="{node14}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-175.0/0.0/86.1" id="Point02"/>
-      <hotspot tilt="1.09" description="" pan="-95.52" distance="3.06016" url="{node20}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/108.2" id="Point03"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26032226" nodeid="node13" latitude="-25.39238788" tags="AcademiaForceOne" datetime="22/12/2024 14:47" heading="84.6714" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923879,-49.2603223,3a,75y,84.67h,90t/data=!3m4!1e1!3m2!1sAF1QipNO_qXKI9v1PBhtGn2CJMuKi1VcVk6uS59e3A9R!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-3.65" url="{node7}" id="Point01" distance="4.15101" target="91.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-280.79" description=""/>
+      <hotspot tilt="-3.57" url="{node14}" id="Point02" distance="8.46149" target="-175.0/0.0/86.1" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-180.33" description=""/>
+      <hotspot tilt="1.09" url="{node20}" id="Point03" distance="3.06016" target="0.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-95.52" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node14">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="88.8446" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:48" info="" longitude="-49.26040605" source="" latitude="-25.39239568" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node14" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="88.8446"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-1.4" description="" pan="-176.49" distance="7.73344" url="{node15}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="177.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-0.11" description="" pan="-357.44" distance="8.46149" url="{node13}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26040605" nodeid="node14" latitude="-25.39239568" tags="AcademiaForceOne" datetime="22/12/2024 14:48" heading="88.8446" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923957,-49.2604061,3a,75y,88.84h,90t/data=!3m4!1e1!3m2!1sAF1QipNi_zAy_Ff5PTg54BZ545erxKrLZLFBLZlq0pd1!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.4" url="{node15}" id="Point01" distance="7.73344" target="177.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-176.49" description=""/>
+      <hotspot tilt="-0.11" url="{node13}" id="Point02" distance="8.46149" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-357.44" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node15">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="83.9169" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:49" info="" longitude="-49.26048253" source="" latitude="-25.39240364" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node15" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="83.9169"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="0.78" description="" pan="-179.66" distance="14.2598" url="{node16}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="177.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-0.56" description="" pan="-359.55" distance="7.73344" url="{node14}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26048253" nodeid="node15" latitude="-25.39240364" tags="AcademiaForceOne" datetime="22/12/2024 14:49" heading="83.9169" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3924036,-49.2604825,3a,75y,83.92h,90t/data=!3m4!1e1!3m2!1sAF1QipPiQPCSpabI5bGMG_DmnaS6swpaUCLu1y9iVn8m!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="0.78" url="{node16}" id="Point01" distance="14.2598" target="177.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-179.66" description=""/>
+      <hotspot tilt="-0.56" url="{node14}" id="Point02" distance="7.73344" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-359.55" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node16">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="86.5679" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:50" info="" longitude="-49.26062398" source="" latitude="-25.39241445" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node16" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="86.5679"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="0.89" description="" pan="-186.57" distance="5.54098" url="{node17}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="179.0/0.0/108.2" id="Point01"/>
-      <hotspot tilt="-0.11" description="" pan="-359" distance="14.2598" url="{node15}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/100.0" id="Point02"/>
-      <hotspot tilt="-2.23" description="" pan="-270.47" distance="3.52357" url="{node9}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="91.0/0.0/100.0" id="Point03"/>
-      <hotspot tilt="1.1" description="" pan="-77.86" distance="5.15729" url="{node18}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-86.0/0.0/108.2" id="Point04"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26062398" nodeid="node16" latitude="-25.39241445" tags="AcademiaForceOne" datetime="22/12/2024 14:50" heading="86.5679" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3924145,-49.260624,3a,75y,86.57h,90t/data=!3m4!1e1!3m2!1sAF1QipPeqntMEheIZP8ZWC-9MTVV0MBCrAuhPmunhEm5!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="0.89" url="{node17}" id="Point01" distance="5.54098" target="179.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-186.57" description=""/>
+      <hotspot tilt="-0.11" url="{node15}" id="Point02" distance="14.2598" target="0.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-359" description=""/>
+      <hotspot tilt="-2.23" url="{node9}" id="Point03" distance="3.52357" target="91.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-270.47" description=""/>
+      <hotspot tilt="1.1" url="{node18}" id="Point04" distance="5.15729" target="-86.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-77.86" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node17">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="83.1651" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:52" info="" longitude="-49.26067363" source="" latitude="-25.39239274" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node17" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="83.1651"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-0.25" description="" pan="-347.92" distance="5.54098" url="{node16}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/100.0" id="Point01"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26067363" nodeid="node17" latitude="-25.39239274" tags="AcademiaForceOne" datetime="22/12/2024 14:52" heading="83.1651" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923927,-49.2606736,3a,75y,83.17h,90t/data=!3m4!1e1!3m2!1sAF1QipNWW5hLzHPJhaUFuVuxghuAkn3N2RJRdra5-R-M!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-0.25" url="{node16}" id="Point01" distance="5.54098" target="0.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-347.92" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node18">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="82.4746" fovmode="2">
-      <start tilt="0.39153" fov="108.2" pan="6.0241" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0.39153" projection="4" fov="108.2" pan="6.0241"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:53" info="" longitude="-49.26061865" source="" latitude="-25.39246058" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node18" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="82.4746"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-1.68" description="" pan="-356.54" distance="14.4627" url="{node19}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-2.05" description="" pan="-256.47" distance="5.15729" url="{node16}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="89.0/0.0/100.0" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26061865" nodeid="node18" latitude="-25.39246058" tags="AcademiaForceOne" datetime="22/12/2024 14:53" heading="82.4746" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3924606,-49.2606186,3a,75y,76.45h,90t/data=!3m4!1e1!3m2!1sAF1QipNNF9q2A3sxj_yRbgK7_WVSS2mpIH7A_ghOB4nV!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.68" url="{node19}" id="Point01" distance="14.4627" target="0.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-356.54" description=""/>
+      <hotspot tilt="-2.05" url="{node16}" id="Point02" distance="5.15729" target="89.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-256.47" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node19">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="81.3003" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:56" info="" longitude="-49.26047649" source="" latitude="-25.39243999" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node19" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="81.3003"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-2.01" description="" pan="-358.44" distance="16.1346" url="{node20}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point01"/>
-      <hotspot tilt="-0.56" description="" pan="-178.22" distance="14.4627" url="{node18}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="180.0/0.0/108.2" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26047649" nodeid="node19" latitude="-25.39243999" tags="AcademiaForceOne" datetime="22/12/2024 14:56" heading="81.3003" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.39244,-49.2604765,3a,75y,81.3h,90t/data=!3m4!1e1!3m2!1sAF1QipOuvWD8RzUIaNy7dPaxq99AaJyxhS-sZr6fLy18!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-2.01" url="{node20}" id="Point01" distance="16.1346" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-358.44" description=""/>
+      <hotspot tilt="-0.56" url="{node18}" id="Point02" distance="14.4627" target="180.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-178.22" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node20">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="87.901" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 14:59" info="" longitude="-49.26031824" source="" latitude="-25.39241516" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node20" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="87.901"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-2.22" description="" pan="-182.61" distance="16.1346" url="{node19}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="180.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="0.33" description="" pan="-273.12" distance="3.06016" url="{node13}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="87.0/0.0/100.0" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26031824" nodeid="node20" latitude="-25.39241516" tags="AcademiaForceOne" datetime="22/12/2024 14:59" heading="87.901" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3924152,-49.2603182,3a,75y,87.9h,90t/data=!3m4!1e1!3m2!1sAF1QipOMfnzoq72iIoS9fCMCPl9U1SBIvvOHb33lvHIC!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-2.22" url="{node19}" id="Point01" distance="16.1346" target="180.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-182.61" description=""/>
+      <hotspot tilt="0.33" url="{node13}" id="Point02" distance="3.06016" target="87.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-273.12" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node21">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:02" info="" longitude="-49.26026191" source="" latitude="-25.39233277" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node21" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="0"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-4.44" description="" pan="-176.86" distance="6.9687" url="{node7}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-179.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-1.28" description="" pan="-201.71" distance="6.26234" url="{node22}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/108.2" id="Point02"/>
-      <hotspot tilt="2" description="" pan="-94.9" distance="6.76597" url="{node24}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/100.0" id="Point03"/>
-      <hotspot tilt="0.66" description="" pan="-25.4" distance="14.094" url="{node25}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-88.0/0.0/108.2" id="Point04"/>
-      <hotspot tilt="-0.22" description="" pan="-358.26" distance="7.4986" url="{node27}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/100.0" id="Point05"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26026191" nodeid="node21" latitude="-25.39233277" tags="AcademiaForceOne" datetime="22/12/2024 15:02" heading="0" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923328,-49.2602619,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipPwnd6iP-f_MbFT45kOtWOTW5qnCou19VXExZtr!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-4.44" url="{node7}" id="Point01" distance="6.9687" target="-179.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-176.86" description=""/>
+      <hotspot tilt="-1.28" url="{node22}" id="Point02" distance="6.26234" target="0.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-201.71" description=""/>
+      <hotspot tilt="2" url="{node24}" id="Point03" distance="6.76597" target="0.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-94.9" description=""/>
+      <hotspot tilt="0.66" url="{node25}" id="Point04" distance="14.094" target="-88.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-25.4" description=""/>
+      <hotspot tilt="-0.22" url="{node27}" id="Point05" distance="7.4986" target="0.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-358.26" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node22">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:08" info="" longitude="-49.26027465" source="" latitude="-25.39227764" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node22" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="0"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="0.12" description="" pan="-229.95" distance="6.26234" url="{node21}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-31.0/0.0/108.2" id="Point01"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26027465" nodeid="node22" latitude="-25.39227764" tags="AcademiaForceOne" datetime="22/12/2024 15:08" heading="0" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3922776,-49.2602746,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipNKYOiek8QlNsKHo9Wei7Cf6-yi7kdsmGUI5ue_!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="0.12" url="{node21}" id="Point01" distance="6.26234" target="-31.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-229.95" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node24">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="172.003" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:13" info="" longitude="-49.26025051" source="" latitude="-25.39239274" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node24" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="172.003"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="1.79" description="" pan="-61.4" distance="6.76597" url="{node21}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="91.0/0.0/108.2" id="Point01"/>
-      <hotspot tilt="-4" description="" pan="-181.3" distance="5.77309" url="{node23}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="180.0/0.0/108.2" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26025051" nodeid="node24" latitude="-25.39239274" tags="AcademiaForceOne" datetime="22/12/2024 15:13" heading="172.003" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923927,-49.2602505,3a,75y,172h,90t/data=!3m4!1e1!3m2!1sAF1QipNuJDASlxSUHPw7wMGCD5trf0efGYtMRK_rm2mp!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="1.79" url="{node21}" id="Point01" distance="6.76597" target="91.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-61.4" description=""/>
+      <hotspot tilt="-4" url="{node23}" id="Point02" distance="5.77309" target="180.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-181.3" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node23">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="169.205" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:12" info="" longitude="-49.26024314" source="" latitude="-25.39244423" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node23" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="169.205"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="1.95" description="" pan="-356.21" distance="5.77309" url="{node24}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="1.0/0.0/100.0" id="Point01"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26024314" nodeid="node23" latitude="-25.39244423" tags="AcademiaForceOne" datetime="22/12/2024 15:12" heading="169.205" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3924442,-49.2602431,3a,75y,169.21h,90t/data=!3m4!1e1!3m2!1sAF1QipMZQEuVwQ_3reSMNGMp2HuypvvWdD9zvbW4D8rG!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="1.95" url="{node24}" id="Point01" distance="5.77309" target="1.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-356.21" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node25">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="141.45" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:14" info="" longitude="-49.26014792" source="" latitude="-25.39240667" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node25" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="141.45"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-0.52" description="" pan="-88.91" distance="4.08722" url="{node26}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-0.1/-2.7/108.2" id="Point01"/>
-      <hotspot tilt="-0.29" description="" pan="-203.23" distance="14.094" url="{node21}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="120.0/0.0/100.0" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26014792" nodeid="node25" latitude="-25.39240667" tags="AcademiaForceOne" datetime="22/12/2024 15:14" heading="141.45" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3924067,-49.2601479,3a,75y,141.45h,90t/data=!3m4!1e1!3m2!1sAF1QipOZWU1G7RofMWO4l1vfy-MOoA2zvjs7CKFIXQII!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-0.52" url="{node26}" id="Point01" distance="4.08722" target="-0.1/-2.7/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-88.91" description=""/>
+      <hotspot tilt="-0.29" url="{node21}" id="Point02" distance="14.094" target="120.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-203.23" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node26">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="175.618" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:15" info="" longitude="-49.26014188" source="" latitude="-25.39244302" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node26" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="175.618"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-9.3" description="" pan="-187.27" distance="4.08722" url="{node25}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="178.0/0.0/100.0" id="Point01"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26014188" nodeid="node26" latitude="-25.39244302" tags="AcademiaForceOne" datetime="22/12/2024 15:15" heading="175.618" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.392443,-49.2601419,3a,75y,175.62h,90t/data=!3m4!1e1!3m2!1sAF1QipNwUWGVX3RUgAu42HEeaIbhupl1RtFzfqt0o95V!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-9.3" url="{node25}" id="Point01" distance="4.08722" target="178.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-187.27" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node27">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:16" info="" longitude="-49.26019083" source="" latitude="-25.39231217" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node27" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="0"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-1.44" description="" pan="-187.62" distance="7.4986" url="{node21}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="177.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-0.11" description="" pan="-5.64" distance="9.7836" url="{node28}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="92.0/0.0/100.0" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26019083" nodeid="node27" latitude="-25.39231217" tags="AcademiaForceOne" datetime="22/12/2024 15:16" heading="0" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3923122,-49.2601908,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipMlBJNNHNmThM-2jsLGKa9YdO9ZQ5SYTAHWeoBk!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-1.44" url="{node21}" id="Point01" distance="7.4986" target="177.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-187.62" description=""/>
+      <hotspot tilt="-0.11" url="{node28}" id="Point02" distance="9.7836" target="92.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-5.64" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node28">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="86.8695" fovmode="2">
-      <start tilt="0" fov="100" pan="92" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="92"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:18" info="" longitude="-49.26020357" source="" latitude="-25.39222494" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node28" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="86.8695"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-5.88" description="" pan="-0.9" distance="7.61609" url="{node29}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/108.2" id="Point01"/>
-      <hotspot tilt="-0.3" description="" pan="-140.17" distance="9.7836" url="{node27}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="175.0/0.0/100.0" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26020357" nodeid="node28" latitude="-25.39222494" tags="AcademiaForceOne" datetime="22/12/2024 15:18" heading="86.8695" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3922249,-49.2602036,3a,75y,354.87h,90t/data=!3m4!1e1!3m2!1sAF1QipOc4XA2b8M324kVJjdt-Pd67KOyj3dcodrvVGxx!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-5.88" url="{node29}" id="Point01" distance="7.61609" target="0.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-0.9" description=""/>
+      <hotspot tilt="-0.3" url="{node27}" id="Point02" distance="9.7836" target="175.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-140.17" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node29">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="86.9638" fovmode="2">
-      <start tilt="0" fov="100" pan="91.7653" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="91.7653"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:19" info="" longitude="-49.26020626" source="" latitude="-25.39215649" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node29" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="86.9638"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-3.09" description="" pan="-180.13" distance="7.61609" url="{node28}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-179.0/0.0/100.0" id="Point01"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26020626" nodeid="node29" latitude="-25.39215649" tags="AcademiaForceOne" datetime="22/12/2024 15:19" heading="86.9638" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3921565,-49.2602063,3a,75y,355.2h,90t/data=!3m4!1e1!3m2!1sAF1QipMA2zEkqmSld8rWuVKhU1ZEYwJUZnjE2KOiGa0j!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-3.09" url="{node28}" id="Point01" distance="7.61609" target="-179.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-180.13" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node30">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="87.4739" fovmode="2">
-      <start tilt="0" fov="100" pan="93.4924" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="93.4924"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:22" info="" longitude="-49.26059115" source="" latitude="-25.39224372" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node30" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="87.4739"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-0.2" description="" pan="-157.43" distance="8.14741" url="{node4}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-167.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-0.11" description="" pan="-1.28001" distance="7.85094" url="{node31}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="0.0/0.0/100.0" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26059115" nodeid="node30" latitude="-25.39224372" tags="AcademiaForceOne" datetime="22/12/2024 15:22" heading="87.4739" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3922437,-49.2605912,3a,75y,353.98h,90t/data=!3m4!1e1!3m2!1sAF1QipMaCUF48wYiRHXMol5hwQMB3ZL3Oqt0LqjIf0_t!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-0.2" url="{node4}" id="Point01" distance="8.14741" target="-167.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-157.43" description=""/>
+      <hotspot tilt="-0.11" url="{node31}" id="Point02" distance="7.85094" target="0.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-1.28001" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node31">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="90.7365" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:24" info="" longitude="-49.26051404" source="" latitude="-25.39223221" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node31" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="90.7365"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-2" description="" pan="-91.1" distance="6.38287" url="{node5}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-84.0/0.0/108.2" id="Point01"/>
-      <hotspot tilt="-1.2" description="" pan="-176.54" distance="7.85094" url="{node30}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="175.0/0.0/100.0" id="Point02"/>
-      <hotspot tilt="-1.45" description="" pan="-2.9" distance="10.4315" url="{node32}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="" id="Point03"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26051404" nodeid="node31" latitude="-25.39223221" tags="AcademiaForceOne" datetime="22/12/2024 15:24" heading="90.7365" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3922322,-49.260514,3a,75y,90.74h,90t/data=!3m4!1e1!3m2!1sAF1QipOziey7icZOzqdmZ33ROf7IiHc0dctuC28JE4p6!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-2" url="{node5}" id="Point01" distance="6.38287" target="-84.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-91.1" description=""/>
+      <hotspot tilt="-1.2" url="{node30}" id="Point02" distance="7.85094" target="175.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-176.54" description=""/>
+      <hotspot tilt="-1.45" url="{node32}" id="Point03" distance="10.4315" target="" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-2.9" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node32">
-    <input levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" width="2625" overlap="1" height="2625" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level height="2625" preload="0" predecode="0" width="2625"/>
-      <level height="1312" preload="0" predecode="0" width="1312"/>
-      <level height="656" preload="0" predecode="0" width="656"/>
-      <level height="328" preload="1" predecode="1" width="328"/>
+    <input levelingroll="0" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" width="2625" height="2625" levelingpitch="0">
+      <level predecode="0" width="2625" height="2625" preload="0"/>
+      <level predecode="0" width="1312" height="1312" preload="0"/>
+      <level predecode="0" width="656" height="656" preload="0"/>
+      <level predecode="1" width="328" height="328" preload="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="81.1007" fovmode="2">
-      <start tilt="0" fov="100" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="330"/>
+      <max tilt="90" fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" pan="360"/>
     </view>
-    <userdata description="Force One Academia - Curitiba Boa Vista" datetime="22/12/2024 15:25" info="" longitude="-49.26041145" source="" latitude="-25.39221767" author="MGTOUR360GRAUS" tags="AcademiaForceOne" nodeid="node32" comment="" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" customnodeid="" copyright="MARCELO RIBEIRO   GUTIARA RI" heading="81.1007"/>
-    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
-      <label bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" width="180" borderradius="1" background="1" borderalpha="1" height="20" border="1" textalpha="1" enabled="1"/>
-      <polystyle bordercolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1"/>
-      <hotspot tilt="-0.89" description="" pan="-181.65" distance="10.4315" url="{node31}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="180.0/0.0/100.0" id="Point01"/>
-      <hotspot tilt="-0.42" description="" pan="-32.25" distance="7.14023" url="{node6}" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" skinid="ht_node" target="-30.0/0.0/108.2" id="Point02"/>
+    <userdata copyright="MARCELO RIBEIRO   GUTIARA RI" comment="" source="" longitude="-49.26041145" nodeid="node32" latitude="-25.39221767" tags="AcademiaForceOne" datetime="22/12/2024 15:25" heading="81.1007" customnodeid="" author="MGTOUR360GRAUS" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" info="" streetviewlink="https://www.google.com/maps/@-25.3922177,-49.2604114,3a,75y,81.1h,90t/data=!3m4!1e1!3m2!1sAF1QipPKSKR9rf7uCGylJQHU32nReUR5etUkIN4Ry2ic!2e10" description="Force One Academia - Curitiba Boa Vista"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label backgroundcolor="0xffffff" textalpha="1" enabled="1" background="1" bordercolor="0x000000" borderradius="1" border="1" textcolor="0x000000" width="180" height="20" backgroundalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
+      <hotspot tilt="-0.89" url="{node31}" id="Point01" distance="10.4315" target="180.0/0.0/100.0" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-181.65" description=""/>
+      <hotspot tilt="-0.42" url="{node6}" id="Point02" distance="7.14023" target="-30.0/0.0/108.2" skinid="ht_node" title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Force One Academia - Curitiba Boa Vista&lt;/p>&#xa;&lt;div>" pan="-32.25" description=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomspeed="2" softedge="0" type="crossdissolve" zoomout="0" zoomafteroutfov="40" blendtime="1" zoomfov="40" blendcolor="0x000000" delay="none" zoomafterinfov="140" zoomoutpause="1" enabled="1"/>
-    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
-    <control lockedkeyboard="0" invertcontrol="1" rubberband="0" sensitivity="8" dblclickfullscreen="0" contextprojections="0" hideabout="0" lockedmouse="0" contextvr="1" contextfullscreen="1" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" invertwheel="0" speedwheel="1" lockedwheel="0"/>
+    <transition zoomfov="40" blendtime="1" enabled="1" type="crossdissolve" softedge="0" zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control invertwheel="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" contextfullscreen="1" dblclickfullscreen="0" contextvr="1" contextprojections="0" simulatemass="1" rubberband="0" lockedmouse="0" hideabout="0" sensitivity="8" lockedwheel="0" speedwheel="1" lockedkeyboard="0"/>
   </panorama>
   <masternode>
-    <userdata description="" comment="" title="" author="" copyright="" tags=""/>
+    <userdata tags="" copyright="" comment="" author="" title="" description=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
